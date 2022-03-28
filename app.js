@@ -1,1 +1,1 @@
-console.log('script file');
+console.log('new script file ');
